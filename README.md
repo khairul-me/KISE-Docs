@@ -2,10 +2,6 @@
 
 A robust peer-to-peer collaborative text editor enabling real-time document editing across multiple users without requiring a central server. The system implements a Replicated Growing Array (RGA) data structure and provides sophisticated conflict resolution mechanisms.
 
-## Contributors
-- Khairul Islam (khairul.islam@hws.edu)
-- Sayf Elhawary (elhawaryseif@gmail.com)
-
 ## Table of Contents
 - [Overview](#overview)
 - [Architecture](#architecture)
