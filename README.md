@@ -14,7 +14,7 @@ A robust peer-to-peer collaborative text editor enabling real-time document edit
 - [Future Improvements](#future-improvements)
 - [Contributing](#contributing)
 - [License](#license)
-
+ 
 ## Overview
 
 ### What is KISE?
